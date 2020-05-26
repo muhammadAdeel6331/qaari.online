@@ -1,0 +1,571 @@
+/*/.................mediaquery...............*/
+@media(min-width: 992px){
+
+}
+
+@media(min-width: 768px) and (max-width: 991px){
+    
+}
+@media(min-width: 5575x)and (max-width: 767px) {
+    
+}
+@media(min-width: 480px) and (max-width : 574px) {
+    
+}
+@media screen and (max-width: 479px){
+    
+    
+/*......home-header.....*/
+ 
+/*......home-footer.....*/
+
+
+
+}
+@media screen and (max-width: 600px) {
+  
+
+    .img {
+        opacity: 1.0;
+        width: 350px;
+        height: 200px;
+      }
+    
+  .services{
+    padding: 100px 0px 60px 0px;
+    /* height: 1300px; */
+}
+    .foot{
+         height: 680px;
+}
+
+
+
+}
+
+
+
+
+
+
+
+
+
+/*........................edai query end......................*/
+/*............................home.........................*/
+/*...........................header.........................*/
+
+
+.h:hover{
+    font-size: 35px !important;
+    transition: 0.6s;
+}
+.bgimg{
+    background-image: url("bg1.jpg");
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    width: 100% ;
+    height: 660px;
+    opacity: 0.8;
+}
+.bgimg:hover{
+    background-image: url("bg1.jpg");
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    width: 100% ;
+    height: 660px;
+    opacity: 0.9;
+    transition: 0.6s;
+}
+.nav{
+    background-color: #0006;
+}
+.nav ul li a{
+    border-radius: 5px;
+    padding: 5px 30px 5px 30px;
+    transition: 0.3s;
+}
+.nav ul li a:hover{
+    background-color: blue;
+}
+.aim { 
+    padding: 100px 0px 60px;   
+    height: 500;
+}
+.rowset{
+    margin: 0px 0px;
+}
+.img {
+    opacity: 0.7;
+    width: 400px;
+    height: 300px;
+    padding-bottom: 40px;
+  }
+  
+  .img:hover {
+    opacity: 1;
+    width: 420px;
+    height: 370px;
+    padding-bottom: 40px;
+    transition: 0.6s;
+  }
+  .rowset p{
+      color: #6c757d;
+      word-spacing: 3px;
+  }
+  .headerset{
+      padding: 300px 200px 0px 0px;
+      box-sizing: border-box;
+      
+  }
+  .headerset h2{
+      font-size: 32px;
+  }
+  .headerset h2:hover{
+    font-size: 45px;
+    color: black;
+    transition: 0.7s;
+    font-weight: lighter;
+}
+  .headerset h1{
+      font-size: 50px;
+  }
+  .headerset h1:hover{
+    font-size: 70px;
+    color: black;
+    transition: 0.7s; 
+    font-weight: lighter;   
+}
+  .headerset h2.h1:hover{
+      color: blue !important;
+  }
+  .details h2:hover{
+    font-size: 50px !important;
+    transition: 0.6s;
+    text-shadow: 2px 2px 4px grey;
+  }
+  .s:hover{
+      background-color: #6c757d  !important;
+      box-shadow: 2px 2px 4px white;
+      border: none;
+      transition: 0.3s;
+  }
+  .details p:hover{
+      color: black;
+      font-size: 18px;
+      transition: 0.2;
+  }
+
+
+  /*............................services.......................*/
+
+
+
+  .services{
+      padding: 50px 0px 90px 0px;
+      /* height: 700px; */
+  }
+  .rowsetservices{
+      margin: 80px 0px !important;
+  }
+  .services h1{
+      font-size: 50px;
+      font-weight: lighter;
+  }
+ 
+  .imgsetservices{
+      border-radius: 50%;
+      height: 100px;
+      width: 100px;
+      margin: auto;
+  }
+  .para{
+      color: yellow;
+  }
+  
+  
+  
+  .imgsetservices:hover{
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+    margin: auto;
+    box-shadow: 2px 2px 4px #6c757d;
+    transition: 0.6s;
+}
+
+  .fa-book{
+      margin-top: 24px;
+  }
+  
+  .fa-book:hover{
+    margin-top: 35px;
+    transition: 0.6s;
+    font-size: 80px;
+  }
+  .fa-skype{
+    margin-top: 25px;
+  }
+  
+  .fa-skype:hover{
+    margin-top: 40px;
+    transition: 0.6s;
+    font-size: 80px;
+  }
+  
+  .fa-home{
+      margin-top: 25px;
+      transition: 0.6s;
+      font-size: 70px;
+  }
+  
+  .fa-home:hover{
+    margin-top: 35px;
+    transition: 0.6s;
+    font-size: 80px;
+}
+
+  .rowsetservices p{
+      color: #6c757d ;
+      padding: 15px 20px 20px 18px ;
+      word-spacing: 3px;
+  }
+  .rowsetservices h3{
+      margin-top: 20px;
+      font-size: 25px;
+      font-weight: lighter;
+  }
+  .rowsetservices h3:hover{
+    margin-top: 20px;
+    font-size: 35px;
+    transition: 0.9s;
+    text-shadow: 2px 2px 3px grey;
+}
+  
+
+  /*.................................footer.........................*/
+
+
+  footer{
+    background-color: #0009;
+    padding:40px 0px;
+}
+.content .place .text{
+   padding-bottom: 5px;
+}	       
+
+footer ul li{
+   padding:2px 0px;
+}
+
+.contact li a {
+   color:#FFF;
+   letter-spacing: 2px;
+   text-decoration:none;
+   font-size:15px;
+}
+.contact li a:hover{
+   color: black;
+}
+
+.adress , .contact , .social {
+   list-style: none;
+}
+
+.rowsetfoot .Social a span{
+   width: 50px;
+   height: 50px;
+   background-color: #1a1a1a   ;
+   line-height: 50px;
+   text-align: center;
+   font-size: 28px;
+   border-radius: 5px;
+   transition: 0.2s;
+}
+.rowsetfoot .Social a span:hover{
+background-color: #f12020;
+}
+.socialh{
+   padding-bottom: 50px;
+   padding-top: 40px;
+   font-weight: lighter;
+}
+.socialh:hover{
+   color: black;
+   text-shadow: 2px 2px 4px white;
+   font-size: 40px;
+   transition: 0.7s;
+}
+.addres{
+   padding-bottom: 20px;
+   padding-top: 40px;
+   font-weight: lighter;
+   
+}
+.addres:hover{
+   color: black;
+   text-shadow: 2px 2px 4px white;
+   font-size: 40px;
+   transition: 0.7s;
+}
+.qlinks{   
+   padding-bottom: 20px;
+   padding-top: 40px;  
+   font-weight: lighter;       
+}
+.qlinks:hover{
+   color: black;
+   text-shadow: 2px 2px 4px white;
+   font-size: 40px;
+   transition: 0.7s;
+}
+
+.last{
+   height: 40px;
+}
+/*..............................Home End....................*/
+/*..............................About Us....................*/
+
+.bg-img-about{
+    background-image: url(logo1.jpg) ;
+    
+}
+
+.main{
+    margin: 70px;
+}
+.main h1{
+    font-weight: lighter;
+    margin-bottom: 40px;
+}
+.main h1:hover{
+    font-weight: lighter;
+    margin-bottom: 40px;
+    font-size: 50px;
+    transition: 0.6s;
+    text-shadow: 2px 2px 4px #6c757d;
+}
+.main p{
+    color: #6c757d;
+    word-spacing:3px;
+}
+.sub-main h4{
+    font-weight: lighter;
+    margin-top:40px ;
+    margin-bottom: 10px;
+}
+.sub-main h4:hover{
+    font-weight: lighter;
+    margin-top:40px ;
+    margin-bottom: 10px;
+    font-size: 35px;
+    transition: 0.6s;
+    text-shadow: 2px 2px 4px #6c757d;
+}
+.sub-main ul li{
+    color: #6c757d;
+    word-spacing: 2px;
+    margin-top: 3px;
+}
+
+
+
+/*..............................About End....................*/
+/*..............................courses....................*/
+
+
+.bg-img-course{
+        background-image: url("bg-course3.jpg");
+        background-size: 100% 100%;
+        background-attachment: fixed;
+        width: 100% ;
+        height: auto;
+        opacity: 1;
+        margin-top: 0;
+}
+.main-course{
+    margin: 70px;
+    
+}
+
+.main-course h1{
+    color: white;
+    font-weight: lighter;
+    margin-bottom: 40px;
+}
+.main-course h1:hover{
+    color: white;
+    font-weight: lighter;
+    margin-bottom: 40px;
+    font-size: 50px;
+    transition: 0.6s;
+    text-shadow: 2px 2px 4px white;
+}
+.main-course ul li{
+    border-radius: 7px;
+    text-decoration: none;
+}
+.main-course ul li:hover{
+    background-color:black;
+    transition: 0.5s;
+}
+.main-course p{
+    color: white;
+    word-spacing:3px;
+}
+.main-course p:hover{
+    background-color: black;
+    border-radius: 7px;
+    transition: 0.5s;
+    
+}
+.sub-main-course h4{
+    color: white;
+    font-weight: lighter;
+    margin-top:40px ;
+    margin-bottom: 10px;
+}
+.sub-main-course h4:hover{
+    color: white;
+    font-weight: lighter;
+    margin-top:40px ;
+    margin-bottom: 10px;
+    font-size: 35px;
+    transition: 0.6s;
+    text-shadow: 2px 2px 4px white;
+}
+.main-course ul li{
+    color: white;
+    word-spacing: 2px;
+    margin-top: 3px;
+    list-style-type: none;
+}
+
+
+
+/*..............................course End....................*/
+/*..............................fee-charges....................*/
+
+.main-fee{
+    margin: 130px;
+}
+.main-fee h2,p{
+    font-weight: lighter;
+    word-spacing: 2px;
+    color:#6c757d ;
+}
+.main-fee h2:hover{
+    font-weight: lighter;
+    word-spacing: 2px;
+    color:#6c757d ;
+    font-size: 40px;
+    transition: 0.6s;
+}
+.Packag{
+    
+    margin: auto;
+    text-align: center;
+}
+.Packag h4{
+    background-color:  #0066ff;
+    height: 50px;
+    margin-top: 60px;
+    border-radius: 20px;
+    padding-top: 10px;
+    font-weight: lighter ;
+}
+.Packag h4:hover{
+    color: black;
+    transition: 0.2s;
+    text-shadow: 2px 2px 4px white;
+    transition: 0.6s;
+}
+
+
+/*..............................fee-charges End....................*/
+/*.............................. contact start....................*/
+
+.contact-body{
+    margin: 0;
+    padding: 0;
+}
+.contact-section{
+    background-color: #cccccc;
+    padding: 70px;
+}
+.contact-section h1{
+    text-align: center;
+    color: #0066ff;
+}
+.contact-section h1:hover{
+    text-align: center;
+    color: #0066ff;
+    font-size: 55px;
+    transition: 0.6s;
+    text-shadow: 2px 2px 4px lightslategrey;
+
+}
+.border{
+    width: 100%;
+    height: 5px;
+    border: none;
+    background: #6c757d;
+    margin: 40px auto;
+
+}
+::placeholder {
+    color: white;
+    opacity: 1; 
+}
+
+::-webkit-input-placeholder {
+    color: white;
+ }
+.contact-form{
+    max-width: 600px;
+    margin: auto;
+    padding: 0 10px ;
+    overflow: hidden;
+}
+.contact-form-text{
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+    margin: 16px 0;
+    border: 0;
+    background: #0066ff;
+    padding: 20px 40px;
+    outline: none;
+    color: white;
+    transition: 0.5s;
+    
+}
+.contact-form-text:hover{
+    box-shadow: 0 0 10px 4px #34495e;
+}
+textarea.contact-form-text{
+    resize: none;
+    height: 120px;
+
+}
+.contact-form-btn{
+    float: right;
+    background: #6c757d;
+    color: white;
+    padding: 12px 50px;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: 0.5s;
+
+}
+.contact-form-btn:hover{
+    background:#0066ff ;
+    box-shadow: 0 0 10px 4px #34495e;
+}
+
+
+
+/*..............................fee end....................*/
+/*..............................contact....................*/
+
+
